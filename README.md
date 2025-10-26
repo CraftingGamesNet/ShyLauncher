@@ -22,12 +22,12 @@ You can download from [GitHub Releases](https://github.com/CraftingGamesNet/ShyL
 
 If you download from the [Releases](https://github.com/CraftingGamesNet/ShyLauncher/releases) tab, select the installer for your system.
 
-| Platform | File |
-| -------- | ---- |
-| Windows x64 | `Shy-Launcher-setup-VERSION.exe` |
-| macOS x64 | `Shy-Launcher-setup-VERSION-x64.dmg` | (not available)
-| macOS arm64 | `Shy-Launcher-setup-VERSION-arm64.dmg` | (not available)
-| Linux x64 | `Shy-Launcher-setup-VERSION.AppImage` | (not available)
+| Platform | File | Status |
+| -------- | ---- | ------ |
+| Windows x64 | `Shy-Launcher-setup-VERSION.exe` | (available) |
+| macOS x64 | `Shy-Launcher-setup-VERSION-x64.dmg` | (not available) |
+| macOS arm64 | `Shy-Launcher-setup-VERSION-arm64.dmg` | (not available) |
+| Linux x64 | `Shy-Launcher-setup-VERSION.AppImage` | (not available) |
 
 ## Development
 
