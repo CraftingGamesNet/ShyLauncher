@@ -2,8 +2,6 @@
 
 <h1 align="center">Shy Launcher</h1>
 
-<h3 align="center">Microsoft Login Missing in the soruce code!!</h3>
-
 [<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/CraftingGamesNet/ShyLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/CraftingGamesNet/ShyLauncher/actions) [<img src="https://img.shields.io/github/downloads/CraftingGamesNet/ShyLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/CraftingGamesNet/ShyLauncher/releases)
 
 <p align="center">Join Faywyn without worrying about installing Fabric. We'll handle that for you.</p>
@@ -27,9 +25,9 @@ If you download from the [Releases](https://github.com/CraftingGamesNet/ShyLaunc
 | Platform | File |
 | -------- | ---- |
 | Windows x64 | `Shy-Launcher-setup-VERSION.exe` |
-| macOS x64 | `Shy-Launcher-setup-VERSION-x64.dmg` |
-| macOS arm64 | `Shy-Launcher-setup-VERSION-arm64.dmg` |
-| Linux x64 | `Shy-Launcher-setup-VERSION.AppImage` |
+| macOS x64 | `Shy-Launcher-setup-VERSION-x64.dmg` | (not available)
+| macOS arm64 | `Shy-Launcher-setup-VERSION-arm64.dmg` | (not available)
+| Linux x64 | `Shy-Launcher-setup-VERSION.AppImage` | (not available)
 
 ## Development
 
