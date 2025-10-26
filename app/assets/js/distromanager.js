@@ -2,9 +2,7 @@ const { DistributionAPI } = require('shy-core/common')
 
 const ConfigManager = require('./configmanager')
 
-// Old WesterosCraft url.
-// exports.REMOTE_DISTRO_URL = 'http://mc.westeroscraft.com/WesterosCraftLauncher/distribution.json'
-exports.REMOTE_DISTRO_URL = 'http://shyskyfox.local/craftingGames/faywyn/api/distribution.json'
+exports.REMOTE_DISTRO_URL = 'https://lina.sknif.de/api/distribution.json'
 
 const api = new DistributionAPI(
     ConfigManager.getLauncherDirectory(),
